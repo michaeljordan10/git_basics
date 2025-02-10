@@ -1,0 +1,14 @@
+
+gmail:
+password:
+
+git init
+
+git config --global user-name "michaeljordan10"
+git config --global user-email "kamalraj1469@gmail.com"
+
+git add -A
+
+git commit -m "task updated by Kamal"
+git branch -M main
+git remote add origin https://github.com/michaeljordan10/git_basics.git
